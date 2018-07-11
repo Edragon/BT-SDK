@@ -1,0 +1,151 @@
+CSR Voice and Music Asia Developer Conference 2015
+
+2015 CSR公司音频产品亚洲开发者大会
+
+It gives us great pleasure to invite you to the CSR Voice and Music Asia Developer Conference 2015. The event in China will be held in Shenzhen on 15th May, 2015, at 2F Grand Ballroom, Futian Shangri-La, from 8:30 to 18:00 hours.
+
+CSR公司诚邀您参加2015 CSR公司音频产品亚洲开发者大会。会议将于2015年5月15日8:30到18:00在深圳福田香格里拉大酒店2楼大宴会厅举行。
+
+As a guest you will receive advanced information on our latest solutions for soundbars, speakers, docks, headphones and headsets at the conference. And a range of audio solutions will be demonstrated by CSR and our eXtension? partners. The conference will provide you an opportunity to meet with the industry experts and have any of your technical questions answered.
+
+作为客户，您能在会上了解到我们最新解决方案包括soundbars, speakers, docks, headphones和headsets产品的第一手资料。CSR还将携手我们的eXtension?合作伙伴现场展示一系列音频解决方案。同时，我们将为您提供与行业专家面对面交流，并解答您技术问题的机会。
+
+
+The conference will start at 8:30 on the morning of 15th May. Please kindly ensure to bring your business card to the reception of the event.
+
+本次会议将于5月15日上午8:30开始签到，9:00正式开始。参会当天请带好名片。
+
+ 
+
+We would encourage you to register early due to limited seats and we look forward to meeting you at the conference. Thanks!
+
+因为名额有限，所以我们建议您尽快报名参加。希望届时能在本次开发者大会上和您当面交流。谢谢！
+
+
+Venue address: 4088 Yitian Road, Futian District, Shenzhen, China
+
+酒店地址：深圳福田区益田路4088号 ，近Coco Park购物中心
+
+ 
+
+ 
+
+Detailed Agenda：
+
+具体议程：
+
+Time/时间
+
+Topic/议程
+
+8:30-9:00
+
+Registration客户签到
+
+9:00-9:15
+
+Introduction & Objectives for the day
+
+9:15-9:30
+
+Audio portfolio overview
+
+9:30-9:45
+
+CSR8675 Premium Audio Headline Features
+
+9:45-10:00
+
+ADK4.0 (Combined BT Classic and BT LE use cases)
+
+10:00-10:30
+
+Break & Demos茶歇和产品演示
+
+10:30-11:00
+
+BT Smart integration
+
+11:00-11:15
+
+MFi iAP v2
+
+11:15-11:40
+
+GAIA- Smart control from Android and iOS
+
+11:40-12:00
+
+CSRA64000 Series Speaker ROMs
+
+12:00-12:15
+
+Designing for low-cost speakers
+
+12:15-12:30
+
+Designing for low-power consumption with CSR's ROMs
+
+12:30-13:30
+
+Lunch & Demos午餐和产品演示
+
+13:30-13:45
+
+Small in-ear headset PCB design guidelines
+
+13:45-14:15
+
+Designing to get the best out of 2-Mic CVC
+
+14:15-14:45
+
+ANC
+
+14:45-14:55
+
+Product differentiation using eXtension partner solutions
+
+14:55-15:10
+
+eXtension Partner #1
+
+15:10-15:25
+
+eXtension Partner #2
+
+15:25-15:40
+
+eXtension Partner #3
+
+15:40-16:10
+
+Break & Demos茶歇和产品演示
+
+16:10-16:25
+
+Soundbar Market update
+
+16:25-16:40
+
+CSR's Soundbar Portfolio
+
+16:40-16:50
+
+Entry Level Soundbar
+
+16:50-17:00
+
+Mid Range Soundbar
+
+17:00-17:10
+
+HD Soundbar
+
+17:10-17:30
+
+DDFA
+
+17:30-17:45
+
+Closing Remarks and Lucky Draw结束语和幸运抽奖
